@@ -1,0 +1,209 @@
+{
+    "meta": {
+        "documentTitle": "Mahabharat Episode 5: Shantanu Meets Ganga",
+        "header": {
+            "title": "Mahabharat Episode 5: Shantanu Meets Ganga",
+            "description": "The story of Emperor Bharata's wisdom in choosing a successor based on merit, the celestial curse of Mahabhishek and Ganga, and their fateful meeting on the riverbank.",
+            "thumbnail": "./thumbnails/shantanu-ganga.png"
+        }
+    },
+    "customContent": {
+        "beforeIntro": [],
+        "afterIntro": [],
+        "afterElements": []
+    },
+    "intro": {
+        "sceneNumber": "Merit Over Bloodline",
+        "title": "The Wisdom of Emperor Bharata",
+        "leads": [
+            "Although Emperor Bharata had many sons, he recognized that none of them possessed the necessary qualities to be good rulers for his citizens.",
+            "In a revolutionary act of wisdom, he established that biological connection alone was not enough to claim a throne.",
+            "Bharata was celebrated across the land for his balance of mind, impartiality, and sense of inclusion—which is why the nation carries his name."
+        ]
+    },
+    "storyElements": [
+        {
+            "type": "date_divider",
+            "text": "A Chosen Heir"
+        },
+        {
+            "type": "section_heading",
+            "text": "From Bharata to Shantanu"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/crown.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Instead of passing the throne to his biological sons, Bharata chose a boy named <strong>Vithatha</strong> as his successor."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Vithatha was born to Mamata, the wife of Brihaspati's brother, after Brihaspati had forced himself upon her in a moment of indiscretion."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Vithatha grew into a great king who ruled his entire lifetime with exceptional wisdom and balance."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Fourteen generations down from Vithatha came <strong>Shantanu</strong>, who would become the great-grandfather of the Pandavas and Kauravas."
+        },
+        {
+            "type": "date_divider",
+            "text": "A Celestial Mistake"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Curse of Mahabhishek and Ganga"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/devaloka.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In his previous life, King Shantanu was a noble ruler named <strong>Mahabhishek</strong>. After living a full life, he entered Devaloka."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "One day while Mahabhishek was sitting in Indra's court, goddess <strong>Ganga</strong> came visiting."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In a moment of unawareness, Ganga's dress fell and her upper body was exposed."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Following proper decorum, everyone in court averted their gaze—except Mahabhishek, who was new to Devaloka and kept staring at her."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Indra",
+                "avatar": "./assets/icons/indra.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You are unfit to stay in Devaloka! Go back and be born as a human being again!",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Indra then noticed that Ganga seemed to be enjoying the attention rather than covering herself."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Indra",
+                "avatar": "./assets/icons/indra.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "This is completely inappropriate! You too must go back and be born as a human being. Go through all the pains and pleasures of human existence until you are free from this pride!",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "An Earthly Reunion"
+        },
+        {
+            "type": "section_heading",
+            "text": "Shantanu Meets Ganga"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/river.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Reborn on Earth as King Shantanu, he had no memory of his past life in Devaloka."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Ganga, however, retained her memories and sought to draw Shantanu toward her."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Shantanu was a fine hunter who would become so engrossed in hunting that it felt like worship to him."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "One day, after hunting near the river for weeks on end, intense thirst overtook him when no servants were around. He walked down to the water's edge."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "At that moment, Ganga arose from the river as a woman. The instant Shantanu set eyes upon her, he fell completely in love and pleaded with her to marry him."
+        },
+        {
+            "type": "date_divider",
+            "text": "A Sacred Pact"
+        },
+        {
+            "type": "section_heading",
+            "text": "Ganga's Condition"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/ganga.png"
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Ganga",
+                "avatar": "./assets/icons/ganga.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I will marry you, but on one condition: no matter what I do, you must never ask me why I am doing it!",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In ancient history, women frequently set strict conditions before marriage. For example, when Puru fell in love with the apsara Urvashi, she demanded two conditions: her pet goats had to be protected by his army, and no one could ever see him naked."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "When the devas stole her goats in the dark, Puru rushed out, but Indra sent lightning that exposed Puru naked—causing Urvashi to leave him forever."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Over time, as society shifted from matriarchal to patriarchal, women gradually lost this ability to set such conditions."
+        },
+        {
+            "type": "date_divider",
+            "text": "A New Beginning"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Royal Union"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/palace.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Madly in love, Shantanu agreed to whatever Ganga asked."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Ganga became his beautiful and wonderful queen, and in time, she became pregnant..."
+        },
+        {
+            "type": "date_divider",
+            "text": "To Be Continued..."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Bound by his promise never to question her actions, King Shantanu awaits the arrival of their firstborn child..."
+        }
+    ]
+}

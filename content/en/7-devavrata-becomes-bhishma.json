@@ -1,0 +1,228 @@
+{
+    "meta": {
+        "documentTitle": "Mahabharat Episode 7: Devavrata Becomes Bhishma",
+        "header": {
+            "title": "Mahabharat Episode 7: Devavrata Becomes Bhishma",
+            "description": "The origins of Satyavati, King Shantanu's overwhelming infatuation, and the fierce vow that transformed Devavrata into Bhishma.",
+            "thumbnail": "./thumbnails/devavrata-vow.png"
+        }
+    },
+    "customContent": {
+        "beforeIntro": [],
+        "afterIntro": [],
+        "afterElements": []
+    },
+    "intro": {
+        "sceneNumber": "The Fisher Princess",
+        "title": "Matsyagandhi and Sage Parashara",
+        "leads": [
+            "While hunting for weeks in the forest, King Uparichara of Chedi fathered twins with a fisher girl. The king took the boy, Matsyaraja, back to his palace, leaving the girl with the fisherfolk chief, Dasa. Growing up among fishermen, she was named <strong>Matsyagandhi</strong>—\"smelling of fish.\"",
+            "Years later, when the revered Sage Parashara was severely injured in an attack on his ashram, he escaped to the island where the fisherfolk lived. Seeing his broken condition, they took him in and placed him under Matsyagandhi’s care."
+        ]
+    },
+    "storyElements": [
+        {
+            "type": "date_divider",
+            "text": "A Divine Fragrance"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Birth of Vyasa and Satyavati"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/lotus.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Drawn to Parashara's towering wisdom and longing to transcend her life among the fisherfolk while her twin brother lived in a palace, Matsyagandhi bore the sage a son on the island."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Named <strong>Dwaipayana</strong> (island-born) and <strong>Krishna</strong> (dark-complexioned), the boy grew up to become <strong>Veda Vyasa</strong>—the compiler of the Vedas and narrator of the Mahabharat."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Before leaving with their son, Parashara granted Matsyagandhi a divine boon: her fishy odor vanished, replaced by an otherworldly, heavenly fragrance that smelled like a celestial flower."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Renamed <strong>Satyavati</strong> (\"smelling of truth\"), her intoxicating fragrance became her defining charm."
+        },
+        {
+            "type": "date_divider",
+            "text": "A King's Despair"
+        },
+        {
+            "type": "section_heading",
+            "text": "Shantanu Begs for Satyavati"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/heart.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "One day, King Shantanu encountered Satyavati and instantly fell in love. He approached her foster father, Dasa, to ask for her hand in marriage."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Recognizing the emperor’s desperation, the wily fisherman chief saw a rare opportunity to strike a bargain."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Dasa (Chief of Fisherfolk)",
+                "avatar": "./assets/icons/dasa.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I will give you my daughter only if her children become the future kings of the Kuru Dynasty.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "King Shantanu",
+                "avatar": "./assets/icons/shantanu.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "That is impossible! I have already crowned my son Devavrata—the finest king the kingdom could ever have.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Dasa bluntly refused, knowing he had the king hooked. Heartbroken and haunted by Satyavati's fragrance, Shantanu returned to the palace, neglecting his royal duties and wallowing in deep depression."
+        },
+        {
+            "type": "date_divider",
+            "text": "A Son's Devotion"
+        },
+        {
+            "type": "section_heading",
+            "text": "Devavrata Investigates"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/chariot.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Alarmed by his father's sudden melancholy, Devavrata asked Shantanu what was wrong, but the ashamed king remained silent."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Devavrata then questioned the royal charioteer who had accompanied his father on the hunt."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Royal Charioteer",
+                "avatar": "./assets/icons/charioteer.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I took him to the fisherfolk chief's house. Your father entered full of love and enthusiasm as a king, but walked out looking like a ghost.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "The Extreme Oath"
+        },
+        {
+            "type": "section_heading",
+            "text": "Devavrata Becomes Bhishma"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/sword.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Devavrata rode straight to Dasa's village to resolve the matter himself. When Dasa stated his condition, Devavrata immediately yielded his claim to the crown."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Devavrata",
+                "avatar": "./assets/icons/devavrata.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I promise I will never be king. Let Satyavati’s children rule.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Dasa (Chief of Fisherfolk)",
+                "avatar": "./assets/icons/dasa.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Out of youthful bravado, you say this now. But later, your children will fight Satyavati's sons for the throne.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Devavrata immediately swore never to marry or have children. But Dasa, calmly picking bones out of his fish during his meal, smiled and pressed further:"
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Dasa (Chief of Fisherfolk)",
+                "avatar": "./assets/icons/dasa.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You may not marry, but you may still father children outside of marriage.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "To eliminate all doubts, Devavrata took the ultimate, extreme step of castrating himself on the spot."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Devavrata",
+                "avatar": "./assets/icons/devavrata.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I am now physically incapable of having children. Does this satisfy you?",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Awestruck by the harshest vow a man could inflict upon himself, the onlookers named him <strong>Bhishma</strong>—\"The Terrible One.\""
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Satisfied at last, Dasa agreed, and Shantanu married Satyavati."
+        },
+        {
+            "type": "date_divider",
+            "text": "To Be Continued..."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Having sacrificed his crown, virility, and future for his father's joy, Bhishma became the ultimate guardian of the Kuru throne..."
+        }
+    ]
+}

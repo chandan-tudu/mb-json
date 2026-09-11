@@ -1,0 +1,316 @@
+{
+    "meta": {
+        "documentTitle": "Mahabharat Episode 1: Brihaspati’s Curse and Tara’s Child",
+        "header": {
+            "title": "Mahabharat Episode 1: Brihaspati’s Curse and Tara’s Child",
+            "description": "The story of how one of the key ancestors of the Pandavas and Kauravas was born—from Tara's love for the moon god Chandra to the birth and curse of Budha.",
+            "thumbnail": "./thumbnails/tara-chandra.jpg"
+        }
+    },
+    "customContent": {
+        "beforeIntro": [],
+        "afterIntro": [],
+        "afterElements": []
+    },
+    "intro": {
+        "sceneNumber": "The World of the Mahabharat",
+        "title": "Don't Stand Outside the Story",
+        "leads": [
+            "To truly understand the Mahabharat, you need to step inside it and experience it as if it were your own story.",
+            "It would be unfair to judge people who lived 5,000 years ago using today's modern morals, ethics, and values. Back in those ancient times, interactions between humans on Earth and other forms of life—like Gods, Devas, Yakshas, and wild creatures—were very common.",
+            "Today, in the 21st century, we like to analyze and dissect everything. But if you dissect a story, you lose its real spirit. Instead, we must embrace all the characters—gods, humans, animals, and spirits—to see why these events happened and why they still matter to us today."
+        ]
+    },
+    "storyElements": [
+        {
+            "type": "date_divider",
+            "text": "A Master Scholar"
+        },
+        {
+            "type": "section_heading",
+            "text": "Brihaspati, Chief Priest of Indra"
+        },
+        {
+            "type": "icons",
+            "src": "/icons/brihaspati.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Many thousands of years ago, there lived a great master priest and scholar named <strong>Brihaspati</strong>. He represents the planet Jupiter."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Because of his immense knowledge, <strong>Indra</strong> (the King of Gods) hired Brihaspati as his official head priest."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "This happened during the <strong>Dwapara Yuga</strong>. In those times, sacred rituals were the most important part of daily life. People used special mantras and methods to shape their own lives, change their surroundings, and influence others."
+        },
+        {
+            "type": "date_divider",
+            "text": "The Sacred Role of Women"
+        },
+        {
+            "type": "section_heading",
+            "text": "Tara and Ancient Dharma"
+        },
+        {
+            "type": "icons",
+            "src": "/assets/images/icons/tara.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Brihaspati had a wife named <strong>Tara</strong>. Her name means \"star\"."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In ancient India, a woman's participation in sacred rituals was just as important as a man's. A man was completely unable to perform major rituals without his wife by his side."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Ancient Sacred Rules",
+                "avatar": "/assets/images/icons/tara.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "A man cannot receive blessings without his wife. He cannot go to heaven without his wife. And he cannot attain mukti (liberation) without his wife.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Although men had more physical power, social rules (dharma) ensured that women could not be mistreated, ignored, or cast aside. Because spiritual progress was impossible without a wife, every man had to respect and value his spouse."
+        },
+        {
+            "type": "date_divider",
+            "text": "Broken Trust"
+        },
+        {
+            "type": "section_heading",
+            "text": "Tara and Chandra"
+        },
+        {
+            "type": "icons",
+            "src": "/assets/images/icons/chandra.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Even though Brihaspati was the chief priest of the Gods, he was far from a perfect husband. He neglected Tara and flirted with many other women."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "He only kept Tara with him because losing her meant losing his position and job as Indra's priest."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Feeling lonely and neglected, Tara looked up at the glowing full moon one night and fell deeply in love with <strong>Chandra</strong>, the Moon God."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Chandra came down from the heavens to Earth. A deep romance bloomed between them, and eventually, Tara ran away (eloped) with Chandra!"
+        },
+        {
+            "type": "date_divider",
+            "text": "Brihaspati's Fury"
+        },
+        {
+            "type": "section_heading",
+            "text": "Forced to Return"
+        },
+        {
+            "type": "icons",
+            "src": "/assets/images/icons/angry.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Brihaspati was furious! He was not just heartbroken; he was terrified of losing his prestige, his job, his status, and his access to Devaloka (the world of the gods)."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Brihaspati",
+                "avatar": "/assets/images/icons/brihaspati.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Indra! You must bring my wife back to me! If she does not return, I will stop performing all your sacred rituals!",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Indra got worried because he needed Brihaspati's rituals to keep heaven safe. So, Indra stepped in and ordered Tara to go back."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Tara",
+                "avatar": "/assets/images/icons/tara.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "No! My true love is up there with Chandra.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Indra",
+                "avatar": "/assets/images/icons/indra.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Your feelings do not matter here! Your duty (dharma) is to stay with Brihaspati. If you leave him, my rituals will fail!",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "This was the first time in history that a person was forced by authority to stay in a marriage against her will. Tara was brought back to Brihaspati."
+        },
+        {
+            "type": "date_divider",
+            "text": "The Unborn Voice"
+        },
+        {
+            "type": "section_heading",
+            "text": "Whose Child Is It?"
+        },
+        {
+            "type": "icons",
+            "src": "/assets/images/icons/baby-in-womb.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "When Tara returned, everyone noticed that she was pregnant."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Brihaspati demanded to know who the father was. Tara refused to utter a single word. A large crowd of gods and people gathered around, but she stayed completely silent."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Suddenly, a miraculous voice spoke out from inside her womb!"
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "The Unborn Child",
+                "avatar": "/assets/images/icons/baby-in-womb.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Mother, tell me! Whose child am I really? What seed am I made from?",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "The crowd was amazed by the intelligence of the baby who was asking about his own lineage while still inside the womb. They told Tara that she could not deny her own unborn child."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Tara",
+                "avatar": "/assets/images/icons/tara.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "This child belongs to Chandra, the Moon God.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "The Curse of Brihaspati"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Birth of Budha"
+        },
+        {
+            "type": "icons",
+            "src": "/assets/images/brihaspati-curse-budha.jpg"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "When Brihaspati heard that his wife was carrying another man's baby, he flew into a rage and cursed the unborn child!"
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Brihaspati",
+                "avatar": "/assets/images/icons/brihaspati.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "May you become a neuter—neither a man nor a woman!",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "The child was born and named <strong>Budha</strong>, representing the planet Mercury."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "As Budha grew up, he felt deeply lost and confused about his life and purpose. He went to his mother Tara with his heavy heart."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Budha",
+                "avatar": "/assets/images/icons/budha.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "What am I supposed to do? Should I live as a man or as a woman? What is my duty? Should I become a monk or get married? Should I marry a man or a woman?",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Tara",
+                "avatar": "/assets/images/icons/tara.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Do not worry, my child. The universe has enough space for billions of stars and all kinds of unique creatures that are neither men nor women, nor gods nor demons.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Tara",
+                "avatar": "/assets/images/icons/tara.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "When existence has room for all of that, there is certainly room for you too. Just be who you are, and life will find its way to you.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "To Be Continued..."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Budha grew up holding his mother's wise words, standing on the edge of an identity that the world had not yet defined. This set the stage for the creation of the Chandravamshi dynasty..."
+        }
+    ]
+}

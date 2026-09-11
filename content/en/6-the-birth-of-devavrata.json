@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "documentTitle": "Mahabharat Episode 6: The Birth of Devavrata",
+        "header": {
+            "title": "Mahabharat Episode 6: The Birth of Devavrata",
+            "description": "The tragic fate of Shantanu and Ganga's first seven children, the cosmic backstory of Sage Vasishta's curse on the Vasus, and the rise of Devavrata.",
+            "thumbnail": "./thumbnails/ganga-devavrata.png"
+        }
+    },
+    "customContent": {
+        "beforeIntro": [],
+        "afterIntro": [],
+        "afterElements": []
+    },
+    "intro": {
+        "sceneNumber": "A Terrible Secret",
+        "title": "The Silent Heartbreak of a King",
+        "leads": [
+            "Ganga gave birth to a fine son, but as soon as the child was born, she carried him straight to the river and drowned him.",
+            "King Shantanu was devastated, yet he remained silent—knowing that if he dared to question her actions, she would leave him forever.",
+            "Child after child was born, and without a single word of explanation, Ganga drowned seven newborn sons in succession, pushing Shantanu to the brink of insanity."
+        ]
+    },
+    "storyElements": [
+        {
+            "type": "date_divider",
+            "text": "The Broken Condition"
+        },
+        {
+            "type": "section_heading",
+            "text": "Intervention at the River"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/baby.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "When the eighth infant was born, Shantanu could no longer contain his agony and followed Ganga helplessly to the riverbank."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Just as she was about to submerge the child into the water, Shantanu grabbed the infant from her hands."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "King Shantanu",
+                "avatar": "./assets/icons/shantanu.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Enough! Why are you doing such inhuman things?",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Ganga",
+                "avatar": "./assets/icons/ganga.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You have broken our sacred condition, and now it is time for me to go. But I owe you an explanation, so let me tell you why this had to happen.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "Cosmic Transgression"
+        },
+        {
+            "type": "section_heading",
+            "text": "Sage Vasishta and the Eight Vasus"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/cow.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Long ago, Sage Vasishta lived in his ashram with a divine, wish-fulfilling cow named <strong>Nandini</strong>."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Eight <strong>Vasus</strong> (celestial beings) were traveling through the region in self-driven flying crafts that glided smoothly like liquid mercury and burned with fireless light."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "While visiting Vasishta's ashram, the wife of a Vasu named <strong>Prabhasa</strong> saw Nandini and demanded to have her."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "When the other Vasus hesitated, Prabhasa's wife accused them of cowardice. Driven by pride, Prabhasa and his companions stole the sage's divine cow."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Discovering the theft, Sage Vasishta cursed all eight Vasus for violating hospitality."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Sage Vasishta",
+                "avatar": "./assets/icons/vasishta.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "May you be born as mortal human beings with all their physical limitations! Your wings shall be clipped, and you must endure life and death upon Earth.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Terrified, the Vasus begged Ganga to take them into her womb and liberate them from Earth as quickly as possible."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Ganga",
+                "avatar": "./assets/icons/ganga.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I was only fulfilling their request to end their earthly curse quickly. The first seven are now liberated, but this eighth child is Prabhasa—the main instigator—who was destined for a longer life on Earth.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "Sixteen Years Later"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Return of Devavrata"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/bow.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Ganga took the infant Prabhasa with her, promising to raise him and return him to Shantanu when he turned sixteen."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "For sixteen long years, Shantanu lived in deep depression and lost all interest in his kingdom."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "True to her word, Ganga returned sixteen years later and presented the young prince, named <strong>Devavrata</strong>, to his father."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Devavrata had received the finest education in the universe: archery from the mighty <strong>Parashurama</strong> and knowledge of the Vedas directly from <strong>Brihaspati</strong>."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Overjoyed, Shantanu's grief vanished instantly. He welcomed his accomplished son with immense love and crowned him as <strong>Yuvraj</strong> (Crown Prince)."
+        },
+        {
+            "type": "date_divider",
+            "text": "To Be Continued..."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "With Devavrata ably running the administration of the kingdom, King Shantanu lived in peace—until one day, while hunting, he fell in love once more..."
+        }
+    ]
+}
