@@ -1,0 +1,324 @@
+{
+    "meta": {
+        "documentTitle": "Mahabharat Episode 9: Amba Thirsts For Revenge",
+        "header": {
+            "title": "Mahabharat Episode 9: Amba Thirsts For Revenge",
+            "description": "Amba's spiral from despair to revenge, her quest to find a warrior capable of defeating Bhishma, the bitter duel with Parashurama, Karthikeya's lotus garland, and Shiva's ultimate boon.",
+            "thumbnail": "./thumbnails/amba-revenge.png"
+        }
+    },
+    "customContent": {
+        "beforeIntro": [],
+        "afterIntro": [],
+        "afterElements": []
+    },
+    "intro": {
+        "sceneNumber": "The Spiral into Rage",
+        "title": "Amba's Quest for Blood",
+        "leads": [
+            "Amba moved from despair to desperation, from desperation to anger, from anger to rage, and from rage to an unquenchable thirst for revenge. She traveled from place to place seeking a warrior who would kill Bhishma and avenge her destroyed life.",
+            "However, no warrior was willing to fight Bhishma because of his unmatched martial prowess. Furthermore, when Bhishma took his severe vow of celibacy and castrated himself, King Shantanu had bestowed a unique blessing upon him.",
+            "Having maintained strict <em>brahmacharya</em> and performed 18 years of intense <em>tapasya</em>, Shantanu converted all his accumulated spiritual energy and merit into a boon for his son, allowing Bhishma to choose the exact time of his own death. Protected by this boon and his legendary fighting skills, Bhishma seemed completely invincible."
+        ]
+    },
+    "storyElements": [
+        {
+            "type": "date_divider",
+            "text": "Guru vs. Disciple"
+        },
+        {
+            "type": "section_heading",
+            "text": "Bhishma Fights Parashurama"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/bow.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Desperate, Amba sought out Sage Parashurama, who was Bhishma’s revered guru in weapons training, particularly archery. She prostrated herself before him and explained her pathetic plight."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Sage Parashurama",
+                "avatar": "./assets/icons/parashurama.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Don’t worry, I will fix this for you.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Parashurama summoned Bhishma, who arrived promptly and prostrated himself before his guru."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Sage Parashurama",
+                "avatar": "./assets/icons/parashurama.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Enough! Enough of your vow. Just marry this woman.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Bhishma",
+                "avatar": "./assets/icons/bhishma.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You are my guru. If you ask me to take away my own head, I will do it but do not ask me to break my vow. I have taken a vow that I cannot break.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "During this era, society was striving to build civilization from a lawless existence. Without written constitutions or penal codes, a man’s word was the only law, held sacred above life or death."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "However, Parashurama was unaccustomed to disobedience. Raised with absolute obedience, Parashurama had once severed the heads of his own mother and four brothers without hesitation when commanded by his father. When his pleased father granted him a boon, Parashurama simply asked for their lives to be restored."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Incapable of enduring disobedience, Parashurama flew into a rage at Bhishma's refusal. An extraordinary duel erupted between master and student, lasting bitterly for days. Because Parashurama had taught Bhishma everything he knew, he could not defeat him. Realizing neither could win, Parashurama finally gave up."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Sage Parashurama",
+                "avatar": "./assets/icons/parashurama.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You have to find somebody else.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "The Lotus Garland"
+        },
+        {
+            "type": "section_heading",
+            "text": "Karthikeya Intervenes"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/lotus-garland.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Amba retreated into the snow-clad peaks of the Himalayas, entering intense *sadhana* to invoke Karthikeya, Shiva's warrior son, believing he alone could slay Bhishma."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Pleased with her fierce austerities, Karthikeya appeared before her."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Princess Amba",
+                "avatar": "./assets/icons/amba.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You must kill Bhishma.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Karthikeya",
+                "avatar": "./assets/icons/karthikeya.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "My time of killing is over.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In his quest for justice, Karthikeya had previously traveled south, destroying all injustice until reaching Subramanya in Karnataka. There, he washed his sword for the last time, declared \"Never again this sword will see blood,\" renounced violence, climbed Kumara Parvata, and shed his physical body."
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Karthikeya",
+                "avatar": "./assets/icons/karthikeya.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I cannot kill Bhishma but looking at your plight and your devotion, I will give you a blessing. Take this garland. Whoever wears this garland will kill Bhishma.",
+                "image": ""
+            }
+        },
+        {
+            "type": "date_divider",
+            "text": "The Unfading Garland"
+        },
+        {
+            "type": "section_heading",
+            "text": "The Journey and King Drupada's Refusal"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/pillar.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Garlands had consistently brought disaster to Amba. Armed with this divine lotus garland, she wandered from town to town and village to village."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Princess Amba",
+                "avatar": "./assets/icons/amba.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Is there anybody who is willing to wear this garland and kill Bhishma?",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "No man dared touch it. Eventually, she arrived at the court of King Drupada of Panchala, the second largest empire in Bharatvarsh."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "By this time, rumors of Amba wandering ghost-like in her thirst for Bhishma's blood had spread everywhere. Drupada refused even to grant her an audience."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "In absolute frustration and depression, Amba hung the lotus garland on a column in Drupada's palace and fled back to the Himalayas."
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "The lotus flowers miraculously remained fresh forever. Terrified of the garland's omen, King Drupada forbade anyone from touching it. The palace staff lit lamps and worshipped the garland daily, but no one dared touch it."
+        },
+        {
+            "type": "date_divider",
+            "text": "The Promise of Reincarnation"
+        },
+        {
+            "type": "section_heading",
+            "text": "Shiva's Ultimate Boon"
+        },
+        {
+            "type": "icons",
+            "src": "./assets/icons/shiva.png"
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Amba returned to the Himalayas and engaged in extreme penance. Her beautiful young body withered away until she was reduced to mere skin and bones. Calling upon Shiva, the Great Lord himself manifested before her."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Princess Amba",
+                "avatar": "./assets/icons/amba.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "You must kill Bhishma.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Lord Shiva",
+                "avatar": "./assets/icons/shiva.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Is it not best that you get to kill Bhishma? Then you will enjoy the revenge more than me killing him.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Her eyes brightened at the prospect."
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Princess Amba",
+                "avatar": "./assets/icons/amba.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "How is it possible? I am a woman and he is a great warrior, how can I kill him?",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Lord Shiva",
+                "avatar": "./assets/icons/shiva.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "I will bless you, in your next life you will kill him.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "sent",
+            "sender": {
+                "name": "Princess Amba",
+                "avatar": "./assets/icons/amba.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "But in my next life I will not remember all this. So I will not know the sweetness of revenge.",
+                "image": ""
+            }
+        },
+        {
+            "type": "chat_message",
+            "direction": "received",
+            "sender": {
+                "name": "Lord Shiva",
+                "avatar": "./assets/icons/shiva.png"
+            },
+            "bubble": {
+                "isThought": false,
+                "text": "Don’t worry. I will make sure that you remember. When the time comes you will remember. You will know the sweetness of revenge. For all that you have suffered, you will have it.",
+                "image": ""
+            }
+        },
+        {
+            "type": "narrative_paragraph",
+            "html": "Satisfied at last, Amba sat in meditation and discarded her mortal body, preparing to return in her next life to fulfill her vengeance..."
+        },
+        {
+            "type": "date_divider",
+            "text": "To Be Continued..."
+        }
+    ]
+}
