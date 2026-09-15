@@ -67,17 +67,9 @@
             "html": "In ancient India, a woman's participation in sacred rituals was just as important as a man's. A man was completely unable to perform major rituals without his wife by his side."
         },
         {
-            "type": "chat_message",
-            "direction": "received",
-            "sender": {
-                "name": "Ancient Sacred Rules",
-                "avatar": "/assets/images/icons/tara.png"
-            },
-            "bubble": {
-                "isThought": false,
-                "text": "A man cannot receive blessings without his wife. He cannot go to heaven without his wife. And he cannot attain mukti (liberation) without his wife.",
-                "image": ""
-            }
+            "type": "quote",
+            "html": "A man cannot receive blessings without his wife. He cannot go to heaven without his wife. And he cannot attain mukti (liberation) without his wife.",
+            "author": "Ancient Sacred Rules"
         },
         {
             "type": "narrative_paragraph",

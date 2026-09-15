@@ -183,7 +183,7 @@
         },
         {
             "type": "narrative_paragraph",
-            "html": "* <strong>Devaki's</strong> only surviving child was Krishna.<br>\n                    * <strong>Rohini's</strong> children were Balarama and Subhadra."
+            "html": "* <strong>Devaki's</strong> only surviving child was Krishna.<br>* <strong>Rohini's</strong> children were Balarama and Subhadra."
         },
         {
             "type": "narrative_paragraph",
@@ -191,11 +191,7 @@
         },
         {
             "type": "narrative_paragraph",
-            "html": "* <strong>Srutadevi</strong> married Damagosha.<br>\n                    * <strong>Preetha (Kunti)</strong> married King Pandu of the Kuru clan, forging a vital link between the Yadavas and the Kurus."
-        },
-        {
-            "type": "date_divider",
-            "text": "To Be Continued..."
+            "html": "* <strong>Srutadevi</strong> married Damagosha.<br>* <strong> Preetha (Kunti)</strong> married King Pandu of the Kuru clan, forging a vital link between the Yadavas and the Kurus."
         }
     ]
 }
