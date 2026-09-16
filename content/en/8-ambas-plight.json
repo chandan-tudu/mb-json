@@ -150,7 +150,7 @@
             "direction": "received",
             "sender": {
                 "name": "Assembled Warriors",
-                "avatar": "./assets/icons/warrior.png"
+                "avatar": "./assets/icons/assembled-warriors.png"
             },
             "bubble": {
                 "isThought": false,
